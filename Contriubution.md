@@ -5,11 +5,11 @@
 이 리포지토리에 기여하기 전에, 기여하고 싶은 부분을 Issue나 Email로 저장소 관리자와 상의하시기 바랍니다. 
 
 
-## Conribution 프로세스
+## 프로젝트 기여 방법
 
 ### 1. Fork to your repository
 
-이 저장소를 Fork 합니다. 작업은 모두 Fork 를 통해 새로 생성된 저장소에서 이루어져야 합니다.
+이 저장소를 Fork 합니다. 작업은 모두 Fork를 통해 새로 생성된 저장소에서 이루어져야 합니다.
 
 ### 2. Create Pull Request
 
