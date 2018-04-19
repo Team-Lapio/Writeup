@@ -1,7 +1,5 @@
 # Basic (Web)
 
-**20413 윤재훈**
-
 웹 첫 번째 문제인 `Basic` 문제이다.
 
 ![Image](https://github.com/JaehunYoon/Writeup/blob/Draft/20413%20%EC%9C%A4%EC%9E%AC%ED%9B%88/Kongju%20University%20Wargame/Web/01%20Basic/Image/01%20Index.PNG)
