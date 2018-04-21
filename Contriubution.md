@@ -19,6 +19,8 @@ Pull Request를 보내기 전에 Team-Lapio/Draft에서 Pull을 받으세요.
 
 문서 수정, 문서 업로드 외의 Commit이 없도록 해주시기 바랍니다.
 
+Pull Request Comment 부분에 어떤 부분을 기여했는지 간단하게 적어주세요. `e.g. "UIUCTF2018 - Xoracle 문제풀이"`
+
 ### 3. Wait for Acceptance
 
 관리자는 받은 Pull Request에 대한 검토를 진행하고 브랜치에 Merge 합니다.
